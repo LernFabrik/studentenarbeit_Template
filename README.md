@@ -27,3 +27,4 @@
 ### Guidelines 
 - **🐛 Report**: Share issues in the ** issue ** tab.
 - **🔧 Improve**: Make these practices even better.
+- ** Please Create `.gitignore` file inside the current repository ** . This is to make sure that you do not upload unnecessary files. Follow this link [here](https://github.com/github/gitignore.git) copy the respective language.  
